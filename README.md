@@ -1,1 +1,2 @@
-# malick
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
